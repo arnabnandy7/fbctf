@@ -86,3 +86,6 @@ Check out the [wiki pages] (https://github.com/facebook/fbctf/wiki) attached to 
 ## License
 
 This source code is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license found in the LICENSE file in the root directory of this source tree.
+
+
+<!-- GitAds-Verify: F2GJUCDN57W53NZ1Z2G33ZSVMFMH314M -->
