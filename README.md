@@ -88,4 +88,7 @@ Check out the [wiki pages] (https://github.com/facebook/fbctf/wiki) attached to 
 This source code is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license found in the LICENSE file in the root directory of this source tree.
 
 
-<!-- GitAds-Verify: F2GJUCDN57W53NZ1Z2G33ZSVMFMH314M -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/fbctf@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/fbctf@github)
+
+
